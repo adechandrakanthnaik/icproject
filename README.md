@@ -1,4 +1,4 @@
-# icproject
+#IC-Project
 Group Name - ATTAGALLU
 Project - EIGENVALUES AND EIGENVECTORS
 
